@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "139178960637",
+    "project_id": "fishify-e-commerce",
+    "storage_bucket": "fishify-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139178960637:android:5c38aa838584bc9d7b4094",
+        "android_client_info": {
+          "package_name": "com.ayakashikitsune.FishifyManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139178960637-k6krt4hcqosfurlprgc632kmvdb57qlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayakashikitsune.FishifyManager",
+            "certificate_hash": "3ef2ffd4b42b587b68ac695f2316396992014a0c"
+          }
+        },
+        {
+          "client_id": "139178960637-bg8546cqrd10dnd1l8kt3963sv8865bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxb1cOTbHk7DIQPtoLAd5seAzpc3OUtnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139178960637-bg8546cqrd10dnd1l8kt3963sv8865bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139178960637:android:e214861b601e5be97b4094",
+        "android_client_info": {
+          "package_name": "com.ayakashikitsune.fishifymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139178960637-bg8546cqrd10dnd1l8kt3963sv8865bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxb1cOTbHk7DIQPtoLAd5seAzpc3OUtnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139178960637-bg8546cqrd10dnd1l8kt3963sv8865bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139178960637:android:0a9fdb166b6d99a27b4094",
+        "android_client_info": {
+          "package_name": "com.ayakashikitsune.fishifymarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139178960637-bg8546cqrd10dnd1l8kt3963sv8865bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxb1cOTbHk7DIQPtoLAd5seAzpc3OUtnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139178960637-bg8546cqrd10dnd1l8kt3963sv8865bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
