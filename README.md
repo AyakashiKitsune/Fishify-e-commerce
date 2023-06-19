@@ -5,6 +5,22 @@ System documentation
 ## About
 Fishify is a seafood E - Commerce for shopping online, built with jetpack compose and Firebase.
 
+## Screenshots
+Admin app / Fishify Manager
+<p align="center">
+    <img src="images/Screenshot_20230619-142251_Fishify_Manager.png" width=200>
+    <img src="images/Screenshot_20230619-142914_Fishify_Manager.png" width=200>
+    <img src="images/Screenshot_20230619-143839_Fishify_Manager.png" width=200>
+</p>
+
+Client app / Fishify Manager
+<p align="center">
+    <img src="images/Screenshot_20230619-150143_Fishify_Market.png" width=200>
+    <img src="images/Screenshot_20230619-150148_Fishify_Market.png" width=200>
+    <img src="images/Screenshot_20230619-150153_Fishify_Market.png" width=200>
+    <img src="images/Screenshot_20230619-151711_Fishify_Market.png" width=200>
+</p>
+
 ## Features
 - Online shopping
 - Secure authentication
