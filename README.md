@@ -3,8 +3,9 @@ System documentation
 
 
 ## About
-	Fishify is a seafood E - Commerce for shopping online, built with jetpack compose and Firebase.
-- Features
+Fishify is a seafood E - Commerce for shopping online, built with jetpack compose and Firebase.
+
+## Features
 - Online shopping
 - Secure authentication
 - Tracks orders
